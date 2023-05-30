@@ -158,6 +158,7 @@ h4, .h4 {
 
 h5, .h5 {
   font-size: 1.25rem;
+  margin-top: 8px;
 }
 
 h6, .h6 {
@@ -2859,6 +2860,7 @@ textarea.form-control-lg {
   --bs-btn-disabled-color: #fff;
   --bs-btn-disabled-bg: #1abc9c;
   --bs-btn-disabled-border-color: #1abc9c;
+  margin-right: 50px;
 }
 
 .btn-secondary {
@@ -7278,7 +7280,7 @@ textarea.form-control-lg {
 
 .w-200 {
 	width:300px !important;
-	height: auto;
+	height: 216px;
 	margin: auto;
 }
 
@@ -7674,10 +7676,16 @@ textarea.form-control-lg {
 
 .mb-4 {
   margin-bottom: 1.5rem !important;
+  text-align: center;
 }
 
 .mb-5 {
   margin-bottom: 3rem !important;
+}
+
+.mb-6{
+  text-align: left;
+  display: inline-block;
 }
 
 .mb-auto {
@@ -8136,7 +8144,7 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: #78909c; !important;
+  background-color: #78909c; 
 }
 
 .bg-secondary {
