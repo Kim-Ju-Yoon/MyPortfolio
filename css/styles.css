@@ -8144,7 +8144,15 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: #78909c; 
+  background-image: url(/img/bada.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-primary2 {
+  --bs-bg-opacity: 1;
+  background-color: #9fa8da;
 }
 
 .bg-secondary {
