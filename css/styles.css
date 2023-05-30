@@ -8144,7 +8144,7 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-image: url(./img/bada.jpg);
+  background-image: url(/img/bada.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
