@@ -2860,7 +2860,7 @@ textarea.form-control-lg {
   --bs-btn-disabled-color: #fff;
   --bs-btn-disabled-bg: #1abc9c;
   --bs-btn-disabled-border-color: #1abc9c;
-  margin-right: 50px;
+  margin-right: 20px;
 }
 
 .btn-secondary {
